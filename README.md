@@ -1,6 +1,6 @@
 ![alt text](nailah-github-intro.gif)
 
-Hi 👋 My name is Nailah Gucon
+Hello, my name is Nailah 😊
 =============================
 
 Computer Science Undergraduate at Nanyang Technological University Singapore
