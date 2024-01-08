@@ -3,7 +3,7 @@
 Hello, my name is Nailah 😊
 =============================
 
-Computer Science Undergraduate at Nanyang Technological University Singapore
+Computer Science Graduate from Nanyang Technological University Singapore
 ----------------------------------------------------------------------------
 
 A conscientious Computer Science undergraduate with a specialisation in Data Science and Artificial Intelligence. My interests lie in software development and data science. My main goal is to be at the forefront of breaking trends and new technology, using data-driven decision-making to help make better products that people love.
